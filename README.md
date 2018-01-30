@@ -36,27 +36,27 @@ So if you wanted to buy BTC, LTC, ETH you can just buy it on Coinbase and transf
 If you wanted to buy other crypto-coins like Ripple (XRP) or VeChain (VEN) to name a few popular ones (yes, I own both) do the following:
 1. Buy ETH on Coinbase
 2. Transfer ETH from Coinbase and GDAX
-  2. Go to gdax.com/trade
+   1. Go to gdax.com/trade
   2. Choose the Deposit button at the top left. 
-  2. Select the Coinbase Account tab.
-  2. Choose a Coinbase wallet as your Source of funds.
-  2. Enter the Amount of currency you would like to transfer.
-  2. Select Deposit funds.
+  3. Select the Coinbase Account tab.
+  4. Choose a Coinbase wallet as your Source of funds.
+  5. Enter the Amount of currency you would like to transfer.
+  6. Select Deposit funds.
 3. Transfer ETH from GDAX to Binance
-  3. Go to gdax.com/trade
-  3. Choose the Withdraw button at the top left.
+  1. Go to gdax.com/trade
+  2. Choose the Withdraw button at the top left.
   3. Select the ETH Address tab.
-  3. Choose an amount of currency you wish to transfer to Binance - click 'max' if you want to transfer it all
-  3. Go to https://www.binance.com/
-  3. Choose the Funds button on the top left and click Deposits
-  3. Type ETH on the left where it says 'Select Deposits Coin'
-  3. Copy the ETH adress back to GDAX in the 'Destination' Field under ETH Address
-  3. Complete the Two-Factor Authentication
-  3. Select Withdraw funds - See Note
+  4. Choose an amount of currency you wish to transfer to Binance - click 'max' if you want to transfer it all
+  5. Go to https://www.binance.com/
+  6. Choose the Funds button on the top left and click Deposits
+  7. Type ETH on the left where it says 'Select Deposits Coin'
+  8. Copy the ETH adress back to GDAX in the 'Destination' Field under ETH Address
+  9. Complete the Two-Factor Authentication
+  10. Select Withdraw funds - See Note
 4. Buy VEN or XRP
-  4. Go to https://www.binance.com/trade.html?symbol=VEN_ETH
-  4. Select the price in ETH in which you would like to buy VEN
-  4. Select the amount (qty) of how many VEN you'd like to buy
+  1. Go to https://www.binance.com/trade.html?symbol=VEN_ETH
+  2. Select the price in ETH in which you would like to buy VEN
+  3. Select the amount (qty) of how many VEN you'd like to buy
   4. Choose Buy VEN
 
 NOTE: It may take some time for the coins to show up in Binance wallet. You should be able to see the progress after a few minutes in the 'Transaction History' Tab under Funds in the top left corner in Binance
