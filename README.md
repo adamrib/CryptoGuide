@@ -1,4 +1,4 @@
-## CyrptoGuide Quick-Start
+## Preface
 
 This is intended to be summary/quick-start guide to help others interested in the Cyrptocurrency boom learn more about what it is and how to get started.
 A lot of the help & insight in this guide is through my own research, experiences and also my opinion. I strongly suggest to do you're own research as you look into investing into cryptocurrencies.
@@ -10,7 +10,7 @@ If there are any errors and you know how to use github, make a pull request.
 3. Do Your Own Research - As of 7-Jan-2018 there are over 1,384 different cryptocurrencies and a large percent of these coins are scams. Go to the company's site (do they have a working site?), read the white-paper, understand its' mission and what/when/how it is they are trying to accomplish it.
 4. Avoid coins that are not yet listed - ICOs (Inital Coin Offerings) are coins that offer a "promise". They have a website, idea, wand a whitepaper with a plan to bring the coin to market but never do - most recently seen by [Prodeum](https://www.reddit.com/r/CryptoCurrency/comments/7tpifa/prodeum_ico_exitscams_with_millions_of_dollars). Granted not all ICOs are bad, I just reccomend avoiding them.
 
-## The Nitty Gritty
+## Short & Quick Guide
 In order to actually buy crypto-coins you need to do the following:
 1. Join an exchange
 2. Trade fiat (Dollars, Euros, etc) for crypto-coins
