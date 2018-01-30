@@ -19,8 +19,8 @@ In order to actually buy crypto-coins you need to do the following:
 For US based people I use the following:
 1. **[Coinbase](https://www.coinbase.com/)** - Coinbase is defiently one of the most user-friendly site & mobile apps I have seen. There fees are high, but the convience is great. Two things to note when putting your payment information in is that you can put both a credit/debit card and put your bank information. While the putting in your bank information allows for larger deposits, the transactions times are much longer (approx. 1 week) vs credit/debit (instantly)
 2. **[GDAX](https://www.gdax.com/)** - GDAX is owned by Coinbase and there's really no difference except for the fact you can transfer money from Coinbase to GDAX for FREE and then from GDAX to another exchange (Binance) for less fees than if you were to transfer it directly from Coinbase to Binance
-3. **[Binance]**(https://www.binance.com/login.html?callback=%2F) - If you've seen the above 2 exchanges you'll notice they only offer 4 crypto-coins. Binance will allow you purchase 100s of other unique coins. 
-4. Coming Soon: [Robinhood](https://robinhood.com/referral/adamr520/) - Robinhood recently announced they would offer ZERO FEE crypto trading come February. Get on the list and make sure you use my referal code so we can both get [Free Stock](https://robinhood.com/referral/adamr520/
+3. **[Binance]**(https://www.binance.com/) - If you've seen the above 2 exchanges you'll notice they only offer 4 crypto-coins. Binance will allow you purchase 100s of other unique coins. 
+4. Coming Soon: [Robinhood](https://robinhood.com/referral/adamr520/) - Robinhood recently announced they would offer ZERO FEE crypto trading come February. Get on the list and make sure you use my referal code so we can both get [Free Stock](https://robinhood.com/referral/adamr520/)
 
 Certain exchanges are there to steal your personal information or rob you of your coins. Do your research!
 
