@@ -1,7 +1,7 @@
 ## Preface
 
-This is intended to be summary/quick-start guide to help others interested in the Cyrptocurrency boom learn more about what it is and how to get started.
-A lot of the help & insight in this guide is through my own research, experiences and also my opinion. I strongly suggest to do you're own research as you look into investing into cryptocurrencies.
+This is intended to be summary/quick-start guide to help others interested in the Cyrptocurrency boom learn more about what it is and how to get started. When I first started there were a lot of different forums and sites, but had a hard time findingone site that had all the information I needed to get started. Hope this helps others.
+
 If there are any errors and you know how to use github, make a pull request.
 
 ## Crypto-Investing 101
@@ -23,9 +23,9 @@ For US based people I use the following:
 3. **[Binance](https://www.binance.com/)** - If you've seen the above 2 exchanges you'll notice they only offer 4 crypto-coins. Binance will allow you purchase 100s of other unique coins. 
 4. Coming Soon: [Robinhood](https://robinhood.com/referral/adamr520/) - Robinhood recently announced they would offer ZERO FEE crypto trading come February. Get on the list and make sure you use my referal code so we can both get [Free Stock](https://robinhood.com/referral/adamr520/)
 
-These exchanges will ask you to upload ID, this is do to the "Know Your Client - KYC" laws. It is a standard form in the investment industry that ensures investment advisors know detailed information about their clients' risk tolerance, investment knowledge and financial position. [Read More Here](https://www.investopedia.com/terms/k/knowyourclient.asp)
+These exchanges will ask you to upload ID, this is due to the "Know Your Client - KYC" laws. It is a standard form in the investment industry that ensures investment advisors know detailed information about their clients' risk tolerance, investment knowledge and financial position. [Read More Here](https://www.investopedia.com/terms/k/knowyourclient.asp)
 
-Certain exchanges are there to steal your personal information or rob you of your coins. Do your own research!
+Certain exchanges are there to steal your personal information or rob you of your coins. I have a high confidence in the ones I've listed above and use them myself.
 
 ### Trade Fiat to Crypto
 Once approved and verified by the exchanges you ready to buy some coins. 
