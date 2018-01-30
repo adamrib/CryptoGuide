@@ -1,4 +1,8 @@
-## Test Page for Pull Request
+## CyrptoGuide Rundown
+
+This summary is to help other interested in the Cyrptocurrency boom learn more about what it is and how to get started.
+A lot of the help & insight in this guide is through my own research, experiences and also my opinion. I strongly suggest to do you're own research as you look into investing into cryptocurrencies. 
+
 
 You can use the [editor on GitHub](https://github.com/adamrib/CryptoGuide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
