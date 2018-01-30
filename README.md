@@ -1,6 +1,6 @@
 ## CyrptoGuide Rundown
 
-This summary is to help others interested in the Cyrptocurrency boom learn more about what it is and how to get started.
+This is intended to be summary/quick-start guide to help others interested in the Cyrptocurrency boom learn more about what it is and how to get started.
 A lot of the help & insight in this guide is through my own research, experiences and also my opinion. I strongly suggest to do you're own research as you look into investing into cryptocurrencies. 
 
 ## Crypto-Investing 101
@@ -22,18 +22,47 @@ For US based people I use the following:
 3. **[Binance](https://www.binance.com/)** - If you've seen the above 2 exchanges you'll notice they only offer 4 crypto-coins. Binance will allow you purchase 100s of other unique coins. 
 4. Coming Soon: [Robinhood](https://robinhood.com/referral/adamr520/) - Robinhood recently announced they would offer ZERO FEE crypto trading come February. Get on the list and make sure you use my referal code so we can both get [Free Stock](https://robinhood.com/referral/adamr520/)
 
-Certain exchanges are there to steal your personal information or rob you of your coins. Do your research!
-
 These exchanges will ask you to upload ID, this is do to the "Know Your Client - KYC" laws. It is a standard form in the investment industry that ensures investment advisors know detailed information about their clients' risk tolerance, investment knowledge and financial position. [Read More Here](https://www.investopedia.com/terms/k/knowyourclient.asp)
+
+Certain exchanges are there to steal your personal information or rob you of your coins. Do your own research!
 
 ### Trade Fiat to Crypto
 Once approved and verified by the exchanges you ready to buy some coins. 
 
 Bitcoin (BTC), Litecoin (LTC) and Ethereum (ETH) are some of the biggest trading pairs (and easiest) in the market today. That is to say it is much easier to buy BTC or ETH with fiat than it is to buy VeChain (another crypto-coin) with fiat. I suggest buying ETH because of the lower fees and faster transaction times. 
 
+So if you wanted to buy BTC, LTC, ETH you can just buy it on Coinbase and transfer it to your wallet and you would be set - see "Storing Your Coins"
 
+If you wanted to buy other crypto-coins like Ripple (XRP) or VeChain (VEN) to name a few popular ones (yes, I own both) do the following:
+1. Buy ETH on Coinbase
+2. Transfer ETH from Coinbase and GDAX
+  2a. Go to gdax.com/trade
+  2b. Choose the Deposit button at the top left.
+  2c. Select the Coinbase Account tab.
+  2d. Choose a Coinbase wallet as your Source of funds.
+  2e. Enter the Amount of currency you would like to transfer.
+  2f. Select Deposit funds.
+3. Transfer ETH from GDAX to Binance
+  3a. Go to gdax.com/trade
+  3b. Choose the Withdraw button at the top left.
+  3c. Select the ETH Address tab.
+  3d. Choose an amount of currency you wish to transfer to Binance - click 'max' if you want to transfer it all
+  3e. Go to https://www.binance.com/
+  3f. Choose the Funds button on the top left and click Deposits
+  3g. Type ETH on the left where it says 'Select Deposits Coin'
+  3h. Copy the ETH adress back to GDAX in the 'Destination' Field under ETH Address
+  3i. Complete the Two-Factor Authentication
+  3j. Select Withdraw funds - See Note
+4. Buy VEN or XRP
+  4a. Go to https://www.binance.com/trade.html?symbol=VEN_ETH
+  4b. Select the price in ETH in which you would like to buy VEN
+  4c. Select the amount (qty) of how many VEN you'd like to buy
+  4d. Choose Buy VEN
 
+NOTE: It may take some time for the coins to show up in Binance wallet. You should be able to see the progress after a few minutes in the 'Transaction History' Tab under Funds in the top left corner in Binance
 
+##Storing Your Coins
+There are tons of horror stories where exchanges have been hacked and lost MILLIONS of cryptocurrencies
 
 You can use the [editor on GitHub](https://github.com/adamrib/CryptoGuide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
