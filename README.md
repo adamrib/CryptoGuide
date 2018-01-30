@@ -37,12 +37,12 @@ So if you wanted to buy BTC, LTC, ETH you can just buy it on Coinbase and transf
 If you wanted to buy other crypto-coins like Ripple (XRP) or VeChain (VEN) to name a few popular ones (yes, I own both) do the following:
 **1. Buy ETH on Coinbase**
 **2. Transfer ETH from Coinbase and GDAX**
-	1. Go to gdax.com/trade
-	2. Choose the Deposit button at the top left. 
-	3. Select the Coinbase Account tab.
-	4. Choose a Coinbase wallet as your Source of funds.
-	5. Enter the Amount of currency you would like to transfer.
-	6. Select Deposit funds.
+    1. Go to gdax.com/trade
+    2. Choose the Deposit button at the top left. 
+    3. Select the Coinbase Account tab.
+    4. Choose a Coinbase wallet as your Source of funds.
+    5. Enter the Amount of currency you would like to transfer.
+    6. Select Deposit funds.
 **3. Transfer ETH from GDAX to Binance**
 	1. Go to gdax.com/trade
     2. Choose the Withdraw button at the top left.
