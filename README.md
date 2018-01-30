@@ -61,7 +61,7 @@ If you wanted to buy other crypto-coins like Ripple (XRP) or VeChain (VEN) to na
 
 NOTE: It may take some time for the coins to show up in Binance wallet. You should be able to see the progress after a few minutes in the 'Transaction History' Tab under Funds in the top left corner in Binance
 
-##Storing Your Coins
+## Storing Your Coins
 There are tons of horror stories where exchanges have been hacked and lost MILLIONS of cryptocurrencies
 
 You can use the [editor on GitHub](https://github.com/adamrib/CryptoGuide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
