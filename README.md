@@ -15,7 +15,7 @@ In order to actually buy crypto-coins you need to do the following:
 2. Trade fiat (Dollars, Euros, etc) for crypto-coins
 3. Move your coins to secure wallet
 
-# Join an Exchange
+### Join an Exchange
 For US based people I use the following:
 1. **[Coinbase](https://www.coinbase.com/)** - Coinbase is defiently one of the most user-friendly site & mobile apps I have seen. There fees are high, but the convience is great. Two things to note when putting your payment information in is that you can put both a credit/debit card and put your bank information. While the putting in your bank information allows for larger deposits, the transactions times are much longer (approx. 1 week) vs credit/debit (instantly)
 2. **[GDAX](https://www.gdax.com/)** - GDAX is owned by Coinbase and there's really no difference except for the fact you can transfer money from Coinbase to GDAX for FREE and then from GDAX to another exchange (Binance) for less fees than if you were to transfer it directly from Coinbase to Binance
@@ -26,7 +26,7 @@ Certain exchanges are there to steal your personal information or rob you of you
 
 These exchanges will ask you to upload ID, this is do to the "Know Your Client - KYC" laws. It is a standard form in the investment industry that ensures investment advisors know detailed information about their clients' risk tolerance, investment knowledge and financial position. [Read More Here](https://www.investopedia.com/terms/k/knowyourclient.asp)
 
-# Trade Fiat to Crypto
+### Trade Fiat to Crypto
 Once approved and verified by the exchanges you ready to buy some coins. 
 
 Bitcoin (BTC), Litecoin (LTC) and Ethereum (ETH) are some of the biggest trading pairs (and easiest) in the market today. That is to say it is much easier to buy BTC or ETH with fiat than it is to buy VeChain (another crypto-coin) with fiat. I suggest buying ETH because of the lower fees and faster transaction times. 
